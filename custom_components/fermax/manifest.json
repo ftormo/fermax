@@ -1,0 +1,13 @@
+{
+  "domain": "fermax",
+  "name": "Fermax DuoxMe",
+  "integration_type": "hue",
+  "codeowners": [
+    "f.tormo"
+  ],
+  "config_flow": true,
+  "documentation": "",
+  "iot_class": "assumed_state",
+  "requirements": [],
+  "version": "1.0.0"
+}

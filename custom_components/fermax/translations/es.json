@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Fermax DuoxMe",
+        "description": "Introduce las credenciales de tu cuenta Fermax Blue",
+        "data": {
+          "username": "Usuario (email)",
+          "password": "Contraseña"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Credenciales incorrectas. Comprueba usuario y contraseña.",
+      "cannot_connect": "No se puede conectar con los servidores de Fermax.",
+      "unknown": "Error inesperado. Consulta el registro de Home Assistant."
+    },
+    "abort": {
+      "already_configured": "Esta cuenta de Fermax ya está configurada."
+    }
+  }
+}
