@@ -3,10 +3,11 @@
   "name": "Fermax DuoxMe",
   "integration_type": "hue",
   "codeowners": [
-    "f.tormo"
+    "@ftormo"
   ],
   "config_flow": true,
-  "documentation": "",
+  "documentation": "https://github.com/ftormo/fermax",
+  "issue_tracker": "https://github.com/ftormo/fermax/issues",
   "iot_class": "assumed_state",
   "requirements": [],
   "version": "1.0.0"
